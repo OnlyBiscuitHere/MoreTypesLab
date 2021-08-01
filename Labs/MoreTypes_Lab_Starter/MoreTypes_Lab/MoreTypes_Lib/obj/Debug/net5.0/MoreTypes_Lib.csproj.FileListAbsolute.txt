@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\MoreTypes_Lib.deps.json
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\MoreTypes_Lib.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\ref\MoreTypes_Lib.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\bin\Debug\net5.0\MoreTypes_Lib.pdb
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.AssemblyInfo.cs
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\ref\MoreTypes_Lib.dll
+C:\Users\user\Downloads\MoreTypesLabs\Labs\MoreTypes_Lab_Starter\MoreTypes_Lab\MoreTypes_Lib\obj\Debug\net5.0\MoreTypes_Lib.pdb
